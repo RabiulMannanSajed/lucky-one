@@ -16,7 +16,7 @@ const Market = () => {
             return 0;
         }
         setCart(newCart);
-        // console.log(newCart);
+
     }
     //Function to remove all selected birds
 
