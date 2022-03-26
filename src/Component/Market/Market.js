@@ -19,9 +19,8 @@ const Market = () => {
 
     }
     //Function to remove all selected birds
-    let removeAll = [];
     const chooseAgain = () => {
-
+        let removeAll = [];
         setCart(removeAll);
     }
     //Function choose for me button
